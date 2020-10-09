@@ -1,0 +1,3 @@
+[submodule "themes/dot-hugo-theme"]
+	path = themes/dot-hugo-theme
+	url = https://github.com/zjivkas/dot-hugo-theme.git
